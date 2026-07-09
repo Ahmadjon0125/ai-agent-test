@@ -12,3 +12,6 @@ sentencepiece
 protobuf
 torchvision
 torchaudio
+langchain-classic
+langchain-community
+ddgs
