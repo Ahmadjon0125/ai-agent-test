@@ -1,0 +1,9 @@
+langchain-groq
+openai
+langchain
+python-dotenv
+requests
+langgraph
+transformers
+tiktoken
+pydantic
