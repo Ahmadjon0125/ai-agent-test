@@ -7,3 +7,8 @@ langgraph
 transformers
 tiktoken
 pydantic
+torch
+sentencepiece
+protobuf
+torchvision
+torchaudio

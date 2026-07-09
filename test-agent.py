@@ -9,7 +9,7 @@ client = OpenAI(
 )
 
 response = client.responses.create(
-    input="Explain the importance of fast language models",
+    input="AI agent nima?",
     model="openai/gpt-oss-20b",
 )
 print(response.output_text)
