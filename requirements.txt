@@ -17,3 +17,6 @@ langchain-community
 ddgs
 wikipedia
 langchain-openai
+langchain-chroma
+langchain-huggingface 
+sentence-transformers
