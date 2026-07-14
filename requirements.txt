@@ -21,3 +21,10 @@ langchain-chroma
 langchain-huggingface 
 sentence-transformers
 pypdf
+langchain-mcp-adapters
+mcp
+huggingface_hub
+pillow
+fastapi
+python-telegram-bot
+streamlit
